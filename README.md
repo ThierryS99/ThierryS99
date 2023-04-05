@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Thierry!;Esse+%C3%A9+o+meu+reposit%C3%B3rio+no+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thierry+Stuhler!;E+esse+é+o+meu+repositório+no+GitHub!;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThierryS99&bg_color=000000&color=ffc800&line=ffc800&point=f05400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -23,6 +23,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
+  
 ### ESTUDANDO NO MOMENTO:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
@@ -33,7 +34,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThierryS99}/count.svg" /></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 
