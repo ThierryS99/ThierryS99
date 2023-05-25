@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thierry+Stuhler!;E+esse+é+o+meu+repositório+no+GitHub!;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThierryS99&bg_color=000000&color=ffc800&line=ffc800&point=f05400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThierryS99&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Thierry Stuhler github stats" /> 
